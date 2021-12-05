@@ -1,0 +1,22 @@
+
+#background{
+    background-image: url("../../Lab14Assignment/Resources/header6.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    top: 25%;
+    width: 1550px;
+    height: 200px;
+    position: relative;
+}
+.navbar-nav {
+   
+    margin: auto;
+}
+
+.text-light{
+    position: absolute;
+    top: 8%;
+    left: 3%;
+}
